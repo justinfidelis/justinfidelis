@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Justin, a year 2 Computer Engineering Student at the National University of Singapore. Check out my portfolio [here](https://justinfidelis.github.io/)!
+
 <!--
 **justinfidelis/justinfidelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
